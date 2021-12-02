@@ -1,6 +1,3 @@
-# relatorio_acompanhamento_fundos_acoes_pandemia
-Os fundos de ações que mais ganharam investidores durante a pandemia - Relatório de Acompanhamento
-##
 # Os fundos de ações que mais ganharam investidores durante a pandemia - Relatório de Acompanhamento
 
 
@@ -17,7 +14,7 @@ Os fundos de ações que mais ganharam investidores durante a pandemia - Relató
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-https://github.com/PrisBarbosa/relatorio_acompanhamento_fundos_acoes_pandemia
+https://github.com/PrisBarbosa/fundos_acoes_pandemia
 
 ---
 
