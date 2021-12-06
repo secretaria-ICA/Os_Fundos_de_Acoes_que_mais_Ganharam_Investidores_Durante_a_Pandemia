@@ -24,7 +24,7 @@ https://github.com/PrisBarbosa/fundos_acoes_pandemia
 
 Foi publicada uma matéria na "exame.invest"(https://invest.exame.com/me/os-fundos-de-acoes-que-mais-ganharam-investidores-durante-a-pandemia) que falava sobre a evolução da quantidade de cotistas nos fundos de investimento em ações durante a pandemia. A solicitação da análise descritiva multivariada desses fundos de investimento veio pelo Diretor da Diretoria Comercial e de Produtos. 
 
-A partir da Definição da Pergunta de Negócio (Como foi essa entrada de cotistas ao longo do período?) e da leitura da matéria, foram avaliadas todas as etapas do processo de BI, desde a Definição de Requisitos até o Storytelling com feedback do cliente pois trabalho com a Metodologia Ágil Scrum.
+A partir da Definição da Pergunta de Negócio (Como foi essa entrada de cotistas ao longo do período?) e da leitura da matéria, foram avaliadas todas as etapas do processo de BI, desde a Definição de Requisitos até o Storytelling com feedback do cliente, em conjunto com a Metodologia Ágil Scrum.
 
 Após mapeamento dos dados necessários e análise das fontes confiáveis, a fonte escolhida foi a CVM - Comissão de Valores Mobiliários. Os dados necessários são disponibilizados diariamente na URL http://dados.cvm.gov.br/dados/FI/DOC/INF_DIARIO/DADOS/diariamente e, por isso, possibilitou a utilização de web scraping como forma de extração.
 
@@ -55,15 +55,15 @@ Assim o Power BI foi escolhido pra entrega do Relatório ao Cliente.
 
 ![image](https://user-images.githubusercontent.com/95291494/144509193-9fadbddb-0090-43b9-b41d-6c54e252e0ae.png)
 
-![image](https://user-images.githubusercontent.com/95291494/144509260-1562a6d4-b58a-42bc-bebe-a677e0777c5b.png)
+![image](https://user-images.githubusercontent.com/95291494/144908897-d1c236f4-fb62-4f4a-8ec2-a54de3be5f95.png)
 
-![image](https://user-images.githubusercontent.com/95291494/144509459-b4fda4a7-af17-4078-92bc-aaf674e95e73.png)
+![image](https://user-images.githubusercontent.com/95291494/144908938-b0d520b8-3c37-436b-be9a-23b156b7efbb.png)
 
-![image](https://user-images.githubusercontent.com/95291494/144509533-43a03c58-347a-46e9-8a44-0834a6f21a6d.png)
+![image](https://user-images.githubusercontent.com/95291494/144908961-7b9b1a5e-90fb-4133-b8fe-2f85cca66d4e.png)
+
+Conclusão...
 
 
-
-Teste
 
 ---
 
