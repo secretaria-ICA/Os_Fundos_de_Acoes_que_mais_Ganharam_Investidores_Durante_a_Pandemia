@@ -2,7 +2,7 @@
 
 
 
-#### Aluno: Priscila Barbosa dos Santos (https://github.com/PrisBarbosa)
+#### Aluna: Priscila Barbosa dos Santos (https://github.com/PrisBarbosa)
 
 #### Orientador: Guilherme Cesário Strachan (https://github.com/link_do_github)
 
@@ -32,20 +32,22 @@ Após mapeamento dos dados necessários e análise das fontes confiáveis, a fon
 ![image](https://user-images.githubusercontent.com/95291494/144506778-a5da2868-8a54-48a9-aa50-8c0c9a2250f6.png)
 
 
-Todo processo de ETL foi realizado no PDI - Pentaho Data Integration, uma das ferramentas utilizadas pela BB DTVM, que é o componente da suíte Pentaho usado para criar processos de extração, transformação e carga (do inglês Extraction, Transformation and Loading, ETL).
+Todo processo de ETL foi realizado no PDI - Pentaho Data Integration que é o componente da suíte Pentaho usado para criar processos de extração, transformação e carga (do inglês Extraction, Transformation and Loading, ETL).
 
+![image](https://user-images.githubusercontent.com/95291494/144770143-ccaf2dca-e2fc-4503-9911-4f7d95c4af7e.png)
 
-![image](https://user-images.githubusercontent.com/95291494/144507420-a0252cf5-6a04-4fdd-bed8-6adf7984a10c.png)
+![image](https://user-images.githubusercontent.com/95291494/144770122-9014cb92-7d0a-47b7-a0e1-4c9ccf682f93.png)
 
-![image](https://user-images.githubusercontent.com/95291494/144508458-f5a155df-62e8-4216-a3c4-1bd7f4b7c756.png)
-
-![image](https://user-images.githubusercontent.com/95291494/144508610-9baa4b75-23c7-4a86-b7d9-b01f5bf5a619.png)
+![image](https://user-images.githubusercontent.com/95291494/144770134-d80b76bb-a8b3-4667-8f75-bdb00f21e306.png)
 
 
 Para o Dashboad, geralmente utilizo o framework abaixo, disponibilizado pelo professor Pedro Venturini na aula de Dashboard do Programa Radar do Cappra Institute (https://cappralab.com/radar), o qual sou membro desde 2020.
 
 
 ![image](https://user-images.githubusercontent.com/95291494/144491119-3a0a9f2c-5798-42eb-9904-2dff02f09bcb.png)
+
+
+*A utilização da imagem foi autorizada por Pedro Venturini.
 
 
 Assim o Power BI foi escolhido pra entrega do Relatório ao Cliente.
@@ -58,8 +60,6 @@ Assim o Power BI foi escolhido pra entrega do Relatório ao Cliente.
 ![image](https://user-images.githubusercontent.com/95291494/144509459-b4fda4a7-af17-4078-92bc-aaf674e95e73.png)
 
 ![image](https://user-images.githubusercontent.com/95291494/144509533-43a03c58-347a-46e9-8a44-0834a6f21a6d.png)
-
-
 
 
 
