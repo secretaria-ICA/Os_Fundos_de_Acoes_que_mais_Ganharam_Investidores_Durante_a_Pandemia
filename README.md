@@ -50,7 +50,7 @@ Para o Dashboad, geralmente utilizo o framework abaixo, disponibilizado pelo pro
 *A utilização da imagem foi autorizada por Pedro Venturini.
 
 
-Assim o Power BI foi escolhido pra entrega do Relatório ao Cliente.
+Assim, o Power BI foi escolhido pra entrega do Relatório ao Cliente.
 
 
 ![image](https://user-images.githubusercontent.com/95291494/145581437-ec112697-e5d5-40f3-8356-ce142f764998.png)
