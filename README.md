@@ -1,8 +1,8 @@
 # Os fundos de ações que mais ganharam investidores durante a pandemia - Relatório de Acompanhamento
 
-#### Aluna: Priscila Barbosa dos Santos (https://github.com/PrisBarbosa)
+#### Aluna: [Priscila Barbosa dos Santos](https://github.com/PrisBarbosa)
 
-#### Orientadora: Manoela Kohler (https://github.com/manoelakohler)
+#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler)
 
 ---
 
@@ -14,7 +14,7 @@ https://github.com/PrisBarbosa/fundos_acoes_pandemia
 
 ### Resumo
 
-Foi publicada uma matéria na "exame.invest"(https://invest.exame.com/me/os-fundos-de-acoes-que-mais-ganharam-investidores-durante-a-pandemia) que falava sobre a evolução da quantidade de cotistas nos fundos de investimento em ações durante a pandemia. A solicitação da análise descritiva multivariada desses fundos de investimento veio pelo diretor da Diretoria Comercial e de Produtos da BB DTVM. 
+Foi publicada uma matéria na ["exame.invest"](https://invest.exame.com/me/os-fundos-de-acoes-que-mais-ganharam-investidores-durante-a-pandemia) que falava sobre a evolução da quantidade de cotistas nos fundos de investimento em ações durante a pandemia. A solicitação da análise descritiva multivariada desses fundos de investimento veio pelo diretor da Diretoria Comercial e de Produtos da BB DTVM. 
 
 ### Abstract
 
