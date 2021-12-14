@@ -38,7 +38,7 @@ Todo processo de ETL foi realizado no PDI - Pentaho Data Integration que é o co
 
 ![image](https://user-images.githubusercontent.com/95291494/144770134-d80b76bb-a8b3-4667-8f75-bdb00f21e306.png)
 
-Para o Dashboad, geralmente utilizo o framework abaixo, disponibilizado pelo professor Pedro Venturini (https://www.linkedin.com/in/pedrovento) na aula de Dataviz do Programa Radar do Cappra Institute (https://cappralab.com/radar), o qual sou membro desde 2020.
+Para o Dashboad, foi utilizado o framework abaixo, disponibilizado pelo professor Pedro Venturini (https://www.linkedin.com/in/pedrovento) na aula de Dataviz do Programa Radar do Cappra Institute (https://cappralab.com/radar), o qual sou membro desde 2020.
 
 ![image](https://user-images.githubusercontent.com/95291494/144491119-3a0a9f2c-5798-42eb-9904-2dff02f09bcb.png)
 
