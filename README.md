@@ -28,37 +28,37 @@ A partir da Definição da Pergunta de Negócio (Como foi essa entrada de cotist
 
 Com o mapeamento dos dados necessários e análise das fontes confiáveis, a fonte escolhida foi a CVM - Comissão de Valores Mobiliários. Os dados mapeados são disponibilizados diariamente na URL http://dados.cvm.gov.br/dados/FI/DOC/INF_DIARIO/DADOS/ e, por isso, possibilitou a utilização de web scraping como forma de extração.
 
-![image](https://user-images.githubusercontent.com/95291494/144506778-a5da2868-8a54-48a9-aa50-8c0c9a2250f6.png)
+<img align="center" height="250" width="800" src="https://user-images.githubusercontent.com/95291494/144506778-a5da2868-8a54-48a9-aa50-8c0c9a2250f6.png" />
 
 Todo processo de ETL foi realizado no PDI - Pentaho Data Integration que é o componente da suíte Pentaho usado para criar processos de extração, transformação e carga (do inglês Extraction, Transformation and Loading, ETL).
 
-![image](https://user-images.githubusercontent.com/95291494/144770143-ccaf2dca-e2fc-4503-9911-4f7d95c4af7e.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/144770143-ccaf2dca-e2fc-4503-9911-4f7d95c4af7e.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/144770122-9014cb92-7d0a-47b7-a0e1-4c9ccf682f93.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/144770122-9014cb92-7d0a-47b7-a0e1-4c9ccf682f93.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/144770134-d80b76bb-a8b3-4667-8f75-bdb00f21e306.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/144770134-d80b76bb-a8b3-4667-8f75-bdb00f21e306.png" />
 
 Para o Dashboad, foi utilizado o framework abaixo, disponibilizado pelo professor Pedro Venturini (https://www.linkedin.com/in/pedrovento) na aula de Dataviz do Programa Radar do Cappra Institute (https://cappralab.com/radar), o qual sou membro desde 2020.
 
-![image](https://user-images.githubusercontent.com/95291494/144491119-3a0a9f2c-5798-42eb-9904-2dff02f09bcb.png)
+<img align="center" height="250" width="500" src="https://user-images.githubusercontent.com/95291494/144491119-3a0a9f2c-5798-42eb-9904-2dff02f09bcb.png" />
 
 *A utilização da imagem foi autorizada por Pedro Venturini.
 
 Assim, o Power BI foi escolhido pra entrega do Relatório ao Cliente.
 
-![image](https://user-images.githubusercontent.com/95291494/145581437-ec112697-e5d5-40f3-8356-ce142f764998.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145581437-ec112697-e5d5-40f3-8356-ce142f764998.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495040-84ed8728-5f61-4a21-b619-1d9e33be5fe0.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495040-84ed8728-5f61-4a21-b619-1d9e33be5fe0.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495051-cc6e8414-6908-4fea-b367-6b4ab5619a6d.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495051-cc6e8414-6908-4fea-b367-6b4ab5619a6d.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495081-c3b27082-a0fb-40c9-beb7-8d5de3c8ff9d.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495081-c3b27082-a0fb-40c9-beb7-8d5de3c8ff9d.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495101-d12c9878-cbe2-4067-a5d7-2ffded73cedd.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495101-d12c9878-cbe2-4067-a5d7-2ffded73cedd.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495139-22f917d1-64c9-49c5-ad37-e28ee021e056.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495139-22f917d1-64c9-49c5-ad37-e28ee021e056.png" />
 
-![image](https://user-images.githubusercontent.com/95291494/145495197-d3554ead-f1cf-48e9-a245-76f0ed0d99e8.png)
+<img align="center" height="400" width="800" src="https://user-images.githubusercontent.com/95291494/145495197-d3554ead-f1cf-48e9-a245-76f0ed0d99e8.png" />
 
 ### 3. Resultados
 
